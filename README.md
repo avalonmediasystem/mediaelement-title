@@ -1,6 +1,6 @@
 # Mediaelement::Skin::Avalon
 
-This gem is a mediaelement.js plugin that adds a linked title to videos
+This gem is a mediaelement.js plugin that adds a linked title on top of the video.
 
 ## Installation
 
